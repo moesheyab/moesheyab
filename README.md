@@ -6,6 +6,7 @@
 </a>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=moesheyab.moesheyab)](https://github.com/moesheyab) [![GitHub followers](https://img.shields.io/github/followers/moesheyab.svg?style=social&label=Follow)](https://github.com/moesheyab?tab=followers)
+
 <br/>
 <br/>
 
@@ -15,13 +16,15 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
 
 
 
- ### I'm currently learning  👨‍💻
+ <h2> I'm currently learning  👨‍💻</h2>
 <br/>
 
 
 [![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=moesheyab&?count_private=true&show_icons=true&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+### My Todoist Stats:
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 
 
 
