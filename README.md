@@ -1,8 +1,13 @@
 <img src="assets\giphy.webp" width="60" align="">
 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=moesheyab.moesheyab)](https://github.com/moesheyab)
+[![Linkedin: Mohammad](https://img.shields.io/badge/-Mohammad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-alsheyab-b51311114/)](https://www.linkedin.com/in/mohammad-alsheyab-b51311114/)
+ [![GitHub followers](https://img.shields.io/github/followers/moesheyab.svg?style=social&label=Follow)](https://github.com/moesheyab?tab=followers) 
+ ![Waka Readme](https://github.com/moesheyab/moesheyab/workflows/Waka%20Readme/badge.svg)
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=moesheyab.moesheyab)](https://github.com/moesheyab) [![GitHub followers](https://img.shields.io/github/followers/moesheyab.svg?style=social&label=Follow)](https://github.com/moesheyab?tab=followers)
-<a href="https://www.linkedin.com/in/mohammad-alsheyab-b51311114/"><img align="" alt="Mohammad's LinkedIn" width="22px" src="assets\linkedin.svg"/>
+<!-- <a href="https://www.linkedin.com/in/mohammad-alsheyab-b51311114/"><img align="" alt="Mohammad's LinkedIn" width="22px" src="assets\linkedin.svg"/>  -->
+
+
 </a>
 <br/>
 <br/>
