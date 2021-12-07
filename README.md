@@ -20,15 +20,17 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
 [![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=moesheyab&?count_private=true&show_icons=true&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-110-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-133-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-253%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 41 Contributions in the Year 2021
+> 🏆 42 Contributions in the Year 2021
  > 
-> 📦 290 Bytes Used in GitHub's Storage 
+> 📦 295 Bytes Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -39,21 +41,21 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    10 commits     ███████░░░░░░░░░░░░░░░░░░   27.78% 
-🌆 Daytime    13 commits     █████████░░░░░░░░░░░░░░░░   36.11% 
-🌃 Evening    11 commits     ███████░░░░░░░░░░░░░░░░░░   30.56% 
-🌙 Night      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+🌞 Morning    10 commits     ██████░░░░░░░░░░░░░░░░░░░   27.03% 
+🌆 Daytime    14 commits     █████████░░░░░░░░░░░░░░░░   37.84% 
+🌃 Evening    11 commits     ███████░░░░░░░░░░░░░░░░░░   29.73% 
+🌙 Night      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.41%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       5 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
-Tuesday      21 commits     ██████████████░░░░░░░░░░░   58.33% 
-Wednesday    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-Thursday     7 commits      ████░░░░░░░░░░░░░░░░░░░░░   19.44% 
+Monday       5 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
+Tuesday      22 commits     ██████████████░░░░░░░░░░░   59.46% 
+Wednesday    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+Thursday     7 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
 Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78% 
+Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
 Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
