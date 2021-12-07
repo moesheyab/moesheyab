@@ -1,12 +1,9 @@
 <img src="assets\giphy.webp" width="60" align="">
 
 
-
-<a href="https://www.linkedin.com/in/mohammad-alsheyab-b51311114/"><img align="left" alt="Mohammad's LinkedIn" width="22px" src="assets\linkedin.svg"/>
-</a>
-
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=moesheyab.moesheyab)](https://github.com/moesheyab) [![GitHub followers](https://img.shields.io/github/followers/moesheyab.svg?style=social&label=Follow)](https://github.com/moesheyab?tab=followers)
-
+<a href="https://www.linkedin.com/in/mohammad-alsheyab-b51311114/"><img align="" alt="Mohammad's LinkedIn" width="22px" src="assets\linkedin.svg"/>
+</a>
 <br/>
 <br/>
 
