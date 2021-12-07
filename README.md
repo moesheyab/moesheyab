@@ -17,15 +17,18 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
 <br/>
 
 
-[![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=moesheyab&?count_private=true&show_icons=true&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=moesheyab&?count_private=true&show_icons=true&theme=gotham&hide_border=true&custom_title=Qucik+Overview+Of+My+GitHub+Stats)](https://github.com/anuraghazra/github-readme-stats)
 
-### My Todoist Stats ✔️
+<h2>My Todoist <img src="assets\todoist.svg" width="20"></img></h2>
 <!-- TODO-IST:START -->
 🏆  5,608 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 313 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
+<br/><br/><br/>
+
+<h2>Even More Stats!</h2>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2055%20mins-blue)
