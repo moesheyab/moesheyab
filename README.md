@@ -19,6 +19,9 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
 
 [![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=moesheyab&?count_private=true&show_icons=true&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### My Todoist Stats:
 <!-- TODO-IST:START -->
 🏆  5,608 Karma Points           
