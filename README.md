@@ -1,9 +1,11 @@
-<h2><img src="assets\giphy.webp" width="40" align=""> Hi there I'm Mohammad! </h2>
+<img src="assets\giphy.webp" width="60" align="">
 
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=moesheyab.moesheyab)](https://github.com/moesheyab) [![GitHub followers](https://img.shields.io/github/followers/moesheyab.svg?style=social&label=Follow)](https://github.com/moesheyab?tab=followers)
 <a href="https://www.linkedin.com/in/mohammad-alsheyab-b51311114/"><img align="" alt="Mohammad's LinkedIn" width="22px" src="assets\linkedin.svg"/>
 </a>
+<br/>
+<br/>
 
 Welcome to my page!
 I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
@@ -14,12 +16,10 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
  <h2> I'm currently learning  👨‍💻</h2>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=moesheyab&?count_private=true&show_icons=true&theme=gotham&hide_border=true&custom_title=Qucik+Overview+Of+My+Github+Stats"></img>
 
-<!-- markdown version of my github stats
- [![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=moesheyab&?count_private=true&show_icons=true&theme=gotham&hide_border=true&custom_title=Qucik+Overview+Of+My+Github+Stats)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=moesheyab&?count_private=true&show_icons=true&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2> My Todoist <img src="assets\todoist.svg" width="15"></img> </h2>
+### My Todoist Stats ✔️
 <!-- TODO-IST:START -->
 🏆  5,608 Karma Points           
 🌸  Completed 0 tasks today           
@@ -27,19 +27,16 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
-<br>
-
-<h2>Even More Stats! </h2>
-
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2020%20mins-blue)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-110-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2055%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-253%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 41 Contributions in the Year 2021
+> 🏆 45 Contributions in the Year 2021
  > 
-> 📦 290 Bytes Used in GitHub's Storage 
+> 📦 295 Bytes Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -50,21 +47,21 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    10 commits     ███████░░░░░░░░░░░░░░░░░░   27.78% 
-🌆 Daytime    13 commits     █████████░░░░░░░░░░░░░░░░   36.11% 
-🌃 Evening    11 commits     ███████░░░░░░░░░░░░░░░░░░   30.56% 
-🌙 Night      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+🌞 Morning    10 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+🌆 Daytime    17 commits     ██████████░░░░░░░░░░░░░░░   42.5% 
+🌃 Evening    11 commits     ███████░░░░░░░░░░░░░░░░░░   27.5% 
+🌙 Night      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       5 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
-Tuesday      21 commits     ██████████████░░░░░░░░░░░   58.33% 
-Wednesday    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-Thursday     7 commits      ████░░░░░░░░░░░░░░░░░░░░░   19.44% 
+Monday       5 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Tuesday      25 commits     ███████████████░░░░░░░░░░   62.5% 
+Wednesday    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+Thursday     7 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
 Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78% 
+Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5% 
 Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -114,8 +111,13 @@ JavaScript               1 repo              ███████████�
 
 
 <!--- 
-Props go to all the contributors of this amzing project!
-https://github.com/marketplace/actions/profile-readme-development-stats
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moesheyab)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=moesheyab" alt="GitHub Stats" /> <br/><br/>
+  <b><em>Programming activity (Last 7 days):</em></b> <br/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=moesheyab" alt="WakaTime" />
+  </p>
 --->
 
 
