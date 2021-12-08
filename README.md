@@ -4,7 +4,7 @@
 [![Linkedin: Mohammad](https://img.shields.io/badge/-Mohammad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-alsheyab-b51311114/)](https://www.linkedin.com/in/mohammad-alsheyab-b51311114/)
  [![GitHub followers](https://img.shields.io/github/followers/moesheyab.svg?style=social&label=Follow)](https://github.com/moesheyab?tab=followers) 
  ![Waka Readme](https://github.com/moesheyab/moesheyab/workflows/Waka%20Readme/badge.svg) 
-<img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="80" align="top">
+
  
 <!-- <a href="https://www.linkedin.com/in/mohammad-alsheyab-b51311114/"><img align="" alt="Mohammad's LinkedIn" width="22px" src="assets\linkedin.svg"/></a>  -->
 
@@ -34,7 +34,7 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
 <!-- TODO-IST:END -->
 <br/><br/><br/>
 
-## Even More Stats! 
+## Even More Stats! <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="50" align="">
 
 <img src=https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif width="200" align="right">
 
