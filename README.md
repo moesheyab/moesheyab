@@ -26,18 +26,18 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
 </dev>
 
 <h2>My Todoist <img src="assets\todoist.svg" width="20"></img></h2>
+
 <!-- TODO-IST:START -->
 🏆  5,608 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 313 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
-<br/><br/><br/>
+
 
 ## Even More Stats! <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="50" align="">
 
 <img src=https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif width="200" align="right">
-
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2055%20mins-blue)
