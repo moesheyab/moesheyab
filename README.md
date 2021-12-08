@@ -5,24 +5,24 @@
  [![GitHub followers](https://img.shields.io/github/followers/moesheyab.svg?style=social&label=Follow)](https://github.com/moesheyab?tab=followers) 
  ![Waka Readme](https://github.com/moesheyab/moesheyab/workflows/Waka%20Readme/badge.svg)
 
-<!-- <a href="https://www.linkedin.com/in/mohammad-alsheyab-b51311114/"><img align="" alt="Mohammad's LinkedIn" width="22px" src="assets\linkedin.svg"/>  -->
+<!-- <a href="https://www.linkedin.com/in/mohammad-alsheyab-b51311114/"><img align="" alt="Mohammad's LinkedIn" width="22px" src="assets\linkedin.svg"/></a>  -->
+<br/><br/>
 
-
-</a>
-<br/>
-<br/>
-
-Welcome to my page!
+Hello there and welcome to my page!
 I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
 
 
-
-
- <h2> I'm currently learning  👨‍💻</h2>
-<br/>
-
-
 [![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=moesheyab&?count_private=true&show_icons=true&theme=gotham&hide_border=true&custom_title=Qucik+Overview+Of+My+GitHub+Stats)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://media.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif" allign="right" width="328">
+<br/>
+<dev>
+  <h2> I'm currently learning  👨‍💻</h2>
+  <ul>
+    <li>React Native</li>
+    <li>Tea</li>
+    <li>Milk</li>
+</ul>
+</dev>
 
 <h2>My Todoist <img src="assets\todoist.svg" width="20"></img></h2>
 <!-- TODO-IST:START -->
