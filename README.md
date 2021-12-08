@@ -40,15 +40,15 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
 <img src=https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif width="200" align="right">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-253%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 45 Contributions in the Year 2021
+> 🏆 53 Contributions in the Year 2021
  > 
-> 📦 295 Bytes Used in GitHub's Storage 
+> 📦 323 Bytes Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -59,21 +59,21 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    10 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-🌆 Daytime    17 commits     ██████████░░░░░░░░░░░░░░░   42.5% 
-🌃 Evening    11 commits     ███████░░░░░░░░░░░░░░░░░░   27.5% 
-🌙 Night      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
+🌞 Morning    10 commits     █████░░░░░░░░░░░░░░░░░░░░   20.83% 
+🌆 Daytime    25 commits     █████████████░░░░░░░░░░░░   52.08% 
+🌃 Evening    11 commits     █████░░░░░░░░░░░░░░░░░░░░   22.92% 
+🌙 Night      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       5 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Tuesday      25 commits     ███████████████░░░░░░░░░░   62.5% 
-Wednesday    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
-Thursday     7 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
+Monday       5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.42% 
+Tuesday      33 commits     █████████████████░░░░░░░░   68.75% 
+Wednesday    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
+Thursday     7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.58% 
 Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5% 
+Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08% 
 Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -112,7 +112,7 @@ JavaScript               1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/moesheyab/moesheyab/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/12/2021
+ Last Updated on 08/12/2021
 <!--END_SECTION:waka-->
 
 
