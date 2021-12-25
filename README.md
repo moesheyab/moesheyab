@@ -40,13 +40,15 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
 <img src=https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif width="200" align="right">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2041%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-256%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 59 Contributions in the Year 2021
  > 
-> 📦 750 Bytes Used in GitHub's Storage 
+> 📦 753 Bytes Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
