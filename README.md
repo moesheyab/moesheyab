@@ -48,7 +48,7 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
 
 > 🏆 2 Contributions in the Year 2022
  > 
-> 📦 899 Bytes Used in GitHub's Storage 
+> 📦 902 Bytes Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
