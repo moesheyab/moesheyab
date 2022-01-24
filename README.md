@@ -85,19 +85,16 @@ Sunday       5 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Java                     43 mins             ███████████████████░░░░░░   75.62% 
-XML                      11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.26% 
-GitIgnore file           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.76% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           57 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Aegis                    57 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    57 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -115,7 +112,7 @@ JavaScript               1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/moesheyab/moesheyab/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/01/2022 06:17:39 UTC
+ Last Updated on 24/01/2022 12:18:41 UTC
 <!--END_SECTION:waka-->
 
 
