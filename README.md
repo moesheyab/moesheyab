@@ -48,7 +48,7 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
 
 > 🏆 3 Contributions in the Year 2022
  > 
-> 📦 1.3 kB Used in GitHub's Storage 
+> 📦 905 Bytes Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -112,7 +112,7 @@ JavaScript               1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/moesheyab/moesheyab/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/02/2022 00:47:58 UTC
+ Last Updated on 06/02/2022 04:14:55 UTC
 <!--END_SECTION:waka-->
 
 
