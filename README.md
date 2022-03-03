@@ -28,7 +28,7 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
 <h2>My Todoist <img src="assets\todoist.svg" width="20"></img></h2>
 
 <!-- TODO-IST:START -->
-🏆  5,815 Karma Points           
+🏆  5,828 Karma Points           
 🌸  Completed 5 tasks today           
 ✅  Completed 332 tasks so far           
 ⏳  Longest streak is 1 days
