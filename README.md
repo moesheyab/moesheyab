@@ -40,8 +40,6 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
 <img src=https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif width="200" align="right">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2014%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-256%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -112,7 +110,7 @@ JavaScript               1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/moesheyab/moesheyab/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/03/2022 04:16:10 UTC
+ Last Updated on 07/03/2022 08:16:10 UTC
 <!--END_SECTION:waka-->
 
 
