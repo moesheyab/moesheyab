@@ -40,7 +40,7 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
 <img src=https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif width="200" align="right">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-256%20Thousand%20lines%20of%20code-blue)
 
@@ -56,6 +56,48 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
  > 
 > 🔑 0 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    14 commits     █████████░░░░░░░░░░░░░░░░   37.84% 
+🌆 Daytime    20 commits     █████████████░░░░░░░░░░░░   54.05% 
+🌃 Evening    3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
+Tuesday      27 commits     ██████████████████░░░░░░░   72.97% 
+Wednesday    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
+Thursday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
+Sunday       5 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.51%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -70,7 +112,7 @@ JavaScript               1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/moesheyab/moesheyab/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 08:16:46 UTC
+ Last Updated on 04/09/2022 10:14:43 UTC
 <!--END_SECTION:waka-->
 
 
