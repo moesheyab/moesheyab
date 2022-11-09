@@ -56,48 +56,6 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    43 commits     █████████████░░░░░░░░░░░░   52.44% 
-🌆 Daytime    30 commits     █████████░░░░░░░░░░░░░░░░   36.59% 
-🌃 Evening    9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.98% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.1% 
-Tuesday      35 commits     ██████████░░░░░░░░░░░░░░░   42.68% 
-Wednesday    7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.54% 
-Thursday     3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.66% 
-Friday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.1% 
-Saturday     18 commits     █████░░░░░░░░░░░░░░░░░░░░   21.95% 
-Sunday       9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.98%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -113,7 +71,7 @@ HTML                     1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/moesheyab/moesheyab/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 06:22:25 UTC
+ Last Updated on 09/11/2022 08:19:57 UTC
 <!--END_SECTION:waka-->
 
 
