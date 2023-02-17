@@ -42,13 +42,13 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2014%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-256%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-260%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 0 Contributions in the Year 2023
  > 
-> 📦 2.5 kB Used in GitHub's Storage 
+> 📦 2.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -113,7 +113,7 @@ HTML                     1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/moesheyab/moesheyab/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/02/2023 20:14:08 UTC
+ Last Updated on 17/02/2023 01:00:47 UTC
 <!--END_SECTION:waka-->
 
 
