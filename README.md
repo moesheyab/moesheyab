@@ -46,7 +46,7 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
 
 **🐱 My GitHub Data** 
 
-> 📦 4.1 kB Used in GitHub's Storage 
+> 📦 4.2 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2024
  > 
@@ -110,7 +110,7 @@ C#                       1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/moesheyab/moesheyab/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2024 22:10:23 UTC
+ Last Updated on 11/03/2024 00:46:14 UTC
 <!--END_SECTION:waka-->
 
 
