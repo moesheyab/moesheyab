@@ -29,7 +29,7 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
 
 <!-- TODO-IST:START -->
 🏆  10,149 Karma Points           
-🌸  Completed 6 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 835 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
