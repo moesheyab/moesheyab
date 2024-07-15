@@ -10,7 +10,7 @@
 
 
 Hello there and welcome to my page!
-I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
+I'm Mohammad, a CS graduate from LA 🏖️🌴☀️
 
 
 [![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=moesheyab&?count_private=true&show_icons=true&theme=gotham&hide_border=true&custom_title=Qucik+Overview+Of+My+GitHub+Stats)](https://github.com/anuraghazra/github-readme-stats)
@@ -19,9 +19,9 @@ I'm Mohammad, a recent CS graduate from LA 🏖️🌴☀️
 <dev>
   <h2> I'm currently learning  👨‍💻 </h2> 
   <ul>
-    <li>React Native</li>
+    <li>Django</li>
+    <li>AI</li>
     <li>Tea</li>
-    <li>Milk</li>
 </ul>
 </dev>
 
