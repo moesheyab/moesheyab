@@ -40,11 +40,15 @@ I'm Mohammad, a CS graduate from LA 🏖️🌴☀️
 <img src=https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif width="200" align="right">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2014%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-286.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 5.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 3 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -52,6 +56,45 @@ I'm Mohammad, a CS graduate from LA 🏖️🌴☀️
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                45 commits          █████████░░░░░░░░░░░░░░░░   35.43 % 
+🌆 Daytime                51 commits          ██████████░░░░░░░░░░░░░░░   40.16 % 
+🌃 Evening                27 commits          █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   18 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Tuesday                  51 commits          ██████████░░░░░░░░░░░░░░░   40.16 % 
+Wednesday                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Thursday                 14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Friday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Saturday                 18 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Sunday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -67,7 +110,7 @@ C#                       1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/moesheyab/moesheyab/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2024 08:15:19 UTC
+ Last Updated on 03/11/2024 10:14:50 UTC
 <!--END_SECTION:waka-->
 
 
