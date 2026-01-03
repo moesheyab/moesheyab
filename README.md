@@ -40,6 +40,8 @@ I'm Mohammad, a CS graduate from LA 🏖️🌴☀️
 <img src=https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif width="200" align="right">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2014%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-315.94%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -54,6 +56,45 @@ I'm Mohammad, a CS graduate from LA 🏖️🌴☀️
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                48 commits          ████████░░░░░░░░░░░░░░░░░   30.00 % 
+🌆 Daytime                62 commits          ██████████░░░░░░░░░░░░░░░   38.75 % 
+🌃 Evening                38 commits          ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+🌙 Night                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   23 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Tuesday                  53 commits          ████████░░░░░░░░░░░░░░░░░   33.12 % 
+Wednesday                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Thursday                 23 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Friday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Saturday                 21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Sunday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Astro** 
 
 ```text
@@ -70,7 +111,7 @@ C#                       1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/moesheyab/moesheyab/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 12:30:10 UTC
+ Last Updated on 03/01/2026 14:14:37 UTC
 <!--END_SECTION:waka-->
 
 
