@@ -10,19 +10,19 @@
 
 
 Hello there and welcome to my page!
-I'm Mohammad, a CS graduate from LA 🏖️🌴☀️
+I'm Mohammad, a software engineer from LA — building AI agents, automation tools, and ETL pipelines. 🏖️🌴☀️
 
 
 [![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=moesheyab&?count_private=true&show_icons=true&theme=gotham&hide_border=true&custom_title=Qucik+Overview+Of+My+GitHub+Stats)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" align="" width="199">
 <br/>
 <dev>
-  <h2> I'm currently learning  👨‍💻 </h2> 
+  <h2> What I'm working on 👨‍💻 </h2>
   <ul>
-    <li>Django</li>
-    <li>AI</li>
-    <li>Tea</li>
-</ul>
+    <li>AI Agents & LLM-powered tools</li>
+    <li>Automation & data pipelines</li>
+    <li>Python full-stack apps</li>
+  </ul>
 </dev>
 
 
