@@ -31,8 +31,6 @@ I'm Mohammad, a software engineer from LA — building AI agents, automation too
 <img src=https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif width="200" align="right">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2014%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-324.28%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -103,7 +101,7 @@ C#                       1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/moesheyab/moesheyab/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2026 19:00:44 UTC
+ Last Updated on 17/05/2026 20:42:18 UTC
 <!--END_SECTION:waka-->
 
 
