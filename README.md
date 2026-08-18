@@ -33,7 +33,7 @@ I'm Mohammad, a software engineer from LA — building AI agents, automation too
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%201%20min-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-324.28%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-78.02%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -50,21 +50,21 @@ I'm Mohammad, a software engineer from LA — building AI agents, automation too
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                73 commits          ███████░░░░░░░░░░░░░░░░░░   26.07 % 
-🌆 Daytime                108 commits         ██████████░░░░░░░░░░░░░░░   38.57 % 
-🌃 Evening                71 commits          ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-🌙 Night                  28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+🌞 Morning                73 commits          ███████░░░░░░░░░░░░░░░░░░   27.86 % 
+🌆 Daytime                100 commits         ██████████░░░░░░░░░░░░░░░   38.17 % 
+🌃 Evening                63 commits          ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+🌙 Night                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Tuesday                  107 commits         ██████████░░░░░░░░░░░░░░░   38.21 % 
-Wednesday                22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Thursday                 29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Friday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Saturday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Sunday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Monday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Tuesday                  101 commits         ██████████░░░░░░░░░░░░░░░   38.55 % 
+Wednesday                21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Thursday                 24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Friday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Saturday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Sunday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
 ```
 
 
@@ -109,7 +109,7 @@ C#                       1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/moesheyab/moesheyab/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 16:23:41 UTC
+ Last Updated on 18/08/2026 18:29:01 UTC
 <!--END_SECTION:waka-->
 
 
